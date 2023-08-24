@@ -1,5 +1,5 @@
 # _Mad Libs_
-### _Mad libs is a phrasal template word game_
+### _Mad libs is a phrasal template word game where players will be prompted for words_
 
 ## Technology used
 * _GIT_
@@ -7,6 +7,7 @@
 * _CSS_
 * _BOOTSTRAP_
 * _JAVASCRIPT_
+* _JQUERY_
 
 ## Contact
 * _NAME: Oloruntayo Kehinde_
@@ -18,4 +19,4 @@
 * _Report any suspected security problem to the contact above._
 
 ## Notice
-Mad Libs contains pieces of source code that is under MIT licence. This notice is included here to comply with the distribution terms.
+Mad Libs contains pieces of source code that is under MIT license. This notice is included here to comply with the distribution terms.
